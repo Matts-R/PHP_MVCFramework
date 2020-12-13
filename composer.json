@@ -1,0 +1,15 @@
+{
+    "name": "matheus/mvc_framework",
+    "authors": [
+        {
+            "name": "Matts-R",
+            "email": "matheushrdasilva13@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
